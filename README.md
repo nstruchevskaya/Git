@@ -15,8 +15,6 @@ git push git@github.com:nstruchevskaya/testrusau.git main:main  # Push data from
 git commit -m "commited change description"                     # Open the README.md file and replace each block with a separate commit 
 git push 
 
-
-```
 ## Task 2
 
 
